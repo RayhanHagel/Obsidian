@@ -1,0 +1,33 @@
+{
+  "markdown:add-metadata-property": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-excalidraw-plugin:copy-link-to-drawing": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "workspace:close-window": [],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
+}

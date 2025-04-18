@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "4 - Semester 6/M - Seminar/Paper/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "{{citekey}}"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "4 - Semester 6/M - Seminar/Paper/{{citekey}}.md",
+      "imageOutputPathTemplate": "4 - Semester 6/M - Seminar/Image/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "0 - Templates/D - Paper Review.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

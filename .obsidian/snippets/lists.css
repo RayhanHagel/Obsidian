@@ -1,0 +1,29 @@
+.markdown-rendered ul{
+    margin-block-start: -10px;
+}
+
+.list-collapse-indicator {
+    display: none;
+}
+
+ul li::marker {
+	display: none;
+	content: "";
+	padding-left: 0;
+}
+
+ul li::before {
+    content: "•";
+	padding-left: 0;
+	padding-right: 0.3em;
+}
+
+li p {
+    display: inline;
+    margin: 0;
+}
+
+ul li.task-list-item.is-checked::before {
+	display: none;
+	content: "";
+}

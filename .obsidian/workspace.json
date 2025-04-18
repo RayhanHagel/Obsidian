@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6debd9d9495867a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba998d63b3cd2e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d185939af5a4d953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b98174f513fdc99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "74b52121c3604582",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5110321044922
+  },
+  "right": {
+    "id": "d2f58ad4c32185ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "380e75277212b3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd839bc3a986342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from homepage"
+            }
+          },
+          {
+            "id": "818395e580b0e4ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eedecde4566b1b69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of homepage"
+            }
+          },
+          {
+            "id": "51c94464e3fb049f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for homepage"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "callout-manager:Insert Callout": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "LICENSE",
+    "obsidian-vault/LICENSE",
+    "obsidian-vault",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Research on carbon dioxide capture materials used for carbon dioxide capture, utilization, and storage technology a review.md",
+    "homepage.md",
+    "9 - Life/Applications and Websites.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Advancements in CO2 capture by absorption and adsorption A comprehensive review.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Applied machine learning to analyze and predict CO2 adsorption behavior of metal-organic frameworks.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 ML-driven models for predicting CO2 uptake in  metal–organic frameworks (MOFs).md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 ML-driven models for predicting CO2 uptake in  metal–organic frameworks (MOFs).md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Robust machine-learning model for prediction of carbon dioxide adsorption on metal-organic frameworks.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Greenhouse gases utilization A review.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 The “Greenhouse” effect and climate change.md",
+    "4 - Semester 6/M - Seminar/001 Citation.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-16 Greenhouse gases emissions and global climate change Examining the influence of CO2, CH4, and N2O.md",
+    "4 - Semester 6/M - Seminar/Image/longeRobustMachinelearningModel2025/longeRobustMachinelearningModel2025-5-x94-y432.png",
+    "4 - Semester 6/M - Seminar/Image/longeRobustMachinelearningModel2025",
+    "0 - Templates/D - Paper Review.md",
+    "4 - Semester 6/M - Seminar/Image/liAppliedMachineLearning2023/liAppliedMachineLearning2023-6-x296-y415.png",
+    "4 - Semester 6/M - Seminar/Image/liAppliedMachineLearning2023/liAppliedMachineLearning2023-4-x306-y440.png",
+    "4 - Semester 6/M - Seminar/Image/liAppliedMachineLearning2023/liAppliedMachineLearning2023-2-x31-y536.png",
+    "4 - Semester 6/M - Seminar/Image/liAppliedMachineLearning2023",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-15 Advancements in CO2 capture by absorption and adsorption A comprehensive review.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-15 The “Greenhouse” effect and climate change.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-15 Greenhouse gases utilization A review.md",
+    "4 - Semester 6/M - Seminar/Paper/2025-04-15 Greenhouse gases emissions and global climate change Examining the influence of CO2, CH4, and N2O.md",
+    "4 - Semester 6/M - Seminar/Image/mitchellGreenhouseEffectClimate1989/mitchellGreenhouseEffectClimate1989-2-x52-y207.png",
+    "4 - Semester 6/M - Seminar/Image/mitchellGreenhouseEffectClimate1989",
+    "7 - Canvas/Excalidraw/Semester 5/Metalurgi Ekstraksi/Atomic Species Mass Balance Example 3.md",
+    "1 - Rough Notes/Fismat3_DF_001.md",
+    "8 - Memory/Discontiniuous Yielding.md",
+    "8 - Memory/Ductile to Brittle Transition.md",
+    "8 - Memory/Strain Hardening.md",
+    "4 - Semester 6/M - Seminar/Image/filonchykGreenhouseGasesEmissions2024/filonchykGreenhouseGasesEmissions2024-4-x298-y40.png",
+    "4 - Semester 6/M - Seminar/Image/filonchykGreenhouseGasesEmissions2024",
+    "4 - Semester 6/M - Seminar/Image",
+    "4 - Semester 6/A - Analisis Kegagalan/Analisis Kegagalan.md",
+    "4 - Semester 6/M - Seminar/Paper",
+    "4 - Semester 6/D - Pembuatan Besi dan Baja/PBB 001.md",
+    "4 - Semester 6/D - Pembuatan Besi dan Baja/Pembuatan Besi dan Baja.md",
+    "Untitled.canvas",
+    "7 - Canvas/Excalidraw/Rough",
+    "7 - Excalidraw",
+    "6 - Images/calendaring.png",
+    "6 - Images/injection molding.png",
+    "6 - Images/Notched and Unnotched Izod Test.png",
+    "6 - Images/Pasted image 20240904061040.png"
+  ]
+}

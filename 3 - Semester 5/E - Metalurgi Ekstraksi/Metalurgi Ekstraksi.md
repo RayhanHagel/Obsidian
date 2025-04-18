@@ -1,0 +1,14 @@
+---
+Alias: "#Semester-5/Meteks"
+---
+- [n] [[Meteks 000]]
+- [n] [[Meteks 001]]
+- [n] [[Meteks 002]]
+- [n] [[Meteks 003]]
+- [n] [[Meteks 004]]
+- [n] [[Meteks 005]]
+- [n] [[Meteks 006]]
+- [n] [[Meteks 007]]
+- [n] [[Meteks 008]]
+- [n] [[Meteks 009]] 
+- [n] Placeholder

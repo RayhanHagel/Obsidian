@@ -1,0 +1,24 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Yellow": "#FFFF00",
+    "Red": "#FF0000",
+    "Green": "#008000",
+    "Blue": "#0000FF",
+    "Purple": "#800080",
+    "Magenta": "#FF00FF",
+    "Orange": "#FFA500",
+    "Gray": "#808080"
+  },
+  "highlighterOrder": [
+    "Yellow",
+    "Red",
+    "Green",
+    "Blue",
+    "Purple",
+    "Magenta",
+    "Orange",
+    "Gray"
+  ]
+}

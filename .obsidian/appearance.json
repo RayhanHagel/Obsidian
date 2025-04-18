@@ -1,0 +1,16 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "better-bullet-points-in-edit-mode",
+    "justify",
+    "image-cards",
+    "enlarge-image-on-hover",
+    "bullet-point-relationship-lines",
+    "headings",
+    "lists"
+  ],
+  "interfaceFontFamily": "Helvetica",
+  "monospaceFontFamily": "Helvetica Neue",
+  "textFontFamily": "Helvetica",
+  "theme": "obsidian"
+}

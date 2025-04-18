@@ -1,0 +1,5 @@
+/* Justify all text in the editor and preview */
+.markdown-preview-view,
+.cm-s-obsidian .cm-content {
+  text-align: justify;
+}
